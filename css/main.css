@@ -22,7 +22,6 @@ body {
 /* Horizontally align the submission buttons */
 .submitButtons {
     display: flex;
-    margin-bottom: 5em;
 }
 
 /* Style the submission buttons */
@@ -43,8 +42,11 @@ body button {
     width: 10em;
     height: 8em;
     margin: 2em;
-    margin-top: 7em;
     border-radius: 1em;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
 }
 
 /* Style the story font */
